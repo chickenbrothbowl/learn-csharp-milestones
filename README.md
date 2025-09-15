@@ -50,7 +50,7 @@ Getting to Know Your Environment (9–21)
 
 - [X] ✏️ Open the reference manual for any component from inside Unity. Paste the link: file:///C:/Program%20Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Documentation/en/Manual/class-Camera.html
 - [X] ✏️ Find the button to jump to the scripting reference the any reference manual page. Paste the link: file:///C:/Program%20Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Documentation/en/ScriptReference/Camera.html
-- [ ] ✏️ Search for the `Strings` class in [Microsoft's C# documents](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/). Paste the link: **??**
+- [X] ✏️ Search for the `Strings` class in [Microsoft's C# documents](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/). Paste the link: https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-9.0
 
 
 ## Chapter 2
