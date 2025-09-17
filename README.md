@@ -56,21 +56,21 @@ Getting to Know Your Environment (9–21)
 ## Chapter 2
 The Building Blocks of Programming (22–37)
 
-- [ ] Open the Unity project contained within this repo
-- [ ] Create Assets/Scripts/LearningCurve.cs
-	- [ ] Create C# variables with typeof `int`, `float`, `string`, and `bool`
-	- [ ] Add a single line, multi line, and summary comment to LearningCurve.cs
-	- [ ] Run the code in LearningCurve by attaching it to the Main Camera GameObject
+- [X] Open the Unity project contained within this repo
+- [X] Create Assets/Scripts/LearningCurve.cs
+	- [X] Create C# variables with typeof `int`, `float`, `string`, and `bool`
+	- [X] Add a single line, multi line, and summary comment to LearningCurve.cs
+	- [X] Run the code in LearningCurve by attaching it to the Main Camera GameObject
 
 
 ## Chapter 3
 Diving into Variables, Types, and Methods (38–64)
 
-- [ ] Update Assets/Scripts/LearningCurve.cs
+- [X] Update Assets/Scripts/LearningCurve.cs
 	- [ ] Variables
-		- [ ] Use access modifiers to make your variables explicitly `public` and `private`
-		- [ ] Use `Debug.Log` and `Debug.LogFormat` to log your variables to the console
-		- [ ] Concatenate strings using the `+` operator, and the string interpolation method `$`
+		- [X] Use access modifiers to make your variables explicitly `public` and `private`
+		- [X] Use `Debug.Log` and `Debug.LogFormat` to log your variables to the console
+		- [X] Concatenate strings using the `+` operator, and the string interpolation method `$`
 	- [ ] Methods
 		- [ ] Define a simple method with parameters
 		- [ ] Add a return type and return some data from a method
