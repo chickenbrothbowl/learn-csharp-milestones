@@ -67,15 +67,15 @@ The Building Blocks of Programming (22–37)
 Diving into Variables, Types, and Methods (38–64)
 
 - [X] Update Assets/Scripts/LearningCurve.cs
-	- [ ] Variables
+	- [X] Variables
 		- [X] Use access modifiers to make your variables explicitly `public` and `private`
 		- [X] Use `Debug.Log` and `Debug.LogFormat` to log your variables to the console
 		- [X] Concatenate strings using the `+` operator, and the string interpolation method `$`
-	- [ ] Methods
-		- [ ] Define a simple method with parameters
-		- [ ] Add a return type and return some data from a method
-		- [ ] Use data returned from a method
-- [ ] ✏️ Explain some differences between public and private variables: **??**
+	- [X] Methods
+		- [X] Define a simple method with parameters
+		- [X] Add a return type and return some data from a method
+		- [X] Use data returned from a method
+- [X] ✏️ Explain some differences between public and private variables: Public variables can be accessed by other scripts, while private variables are local. Public variables can be edited within Unity, while private variables can only be edited in code. 
 
 
 ## Chapter 4
