@@ -104,13 +104,13 @@ Working with Classes, Structs, and OOP (94–119)
 
 - Classes
 	- [ ] ✏️ Explain the difference between reference and value type variables: **??**
-	- [ ] Create Assets/Scripts/Character.cs
-		- [ ] Create a `Character` class
-		- [ ] Create `string` and `int` fields inside the Character class
-		- [ ] Create a `Character()` constructor and populate the above fields with its parameters
-	- [ ] Update Assets/Scripts/LearningCurve.cs
-		- [ ] Instantiate two new Character objects `hero` and `heroine` from the `Character` class
-		- [ ] Print out each characters data
+	- [X] Create Assets/Scripts/Character.cs
+		- [X] Create a `Character` class
+		- [X] Create `string` and `int` fields inside the Character class
+		- [X] Create a `Character()` constructor and populate the above fields with its parameters
+	- [X] Update Assets/Scripts/LearningCurve.cs
+		- [X] Instantiate two new Character objects `hero` and `heroine` from the `Character` class
+		- [X] Print out each characters data
 - [ ] Structs
 	- [ ] Update Assets/Scripts/Character.cs
 		- [ ] Add a `Weapon` struct
