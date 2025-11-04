@@ -103,7 +103,7 @@ Control Flow and Collection Types (65–93)
 Working with Classes, Structs, and OOP (94–119)
 
 - Classes
-	- [ ] ✏️ Explain the difference between reference and value type variables: **??**
+	- [ ] ✏️ Explain the difference between reference and value type variables: Reference types are passed by reference while value types are passed by value.
 	- [X] Create Assets/Scripts/Character.cs
 		- [X] Create a `Character` class
 		- [X] Create `string` and `int` fields inside the Character class
@@ -112,12 +112,12 @@ Working with Classes, Structs, and OOP (94–119)
 		- [X] Instantiate two new Character objects `hero` and `heroine` from the `Character` class
 		- [X] Print out each characters data
 - [ ] Structs
-	- [ ] Update Assets/Scripts/Character.cs
-		- [ ] Add a `Weapon` struct
-		- [ ] Create `string` and `int` fields inside the Weapon struct
-		- [ ] Create a `Weapon()` constructor and populate the above fields with its parameters
-	- [ ] Update Assets/Scripts/LearningCurve.cs
-		- [ ] Instantiate two new Weapon objects `huntingBow` and `warBow` from the `Weapon` struct
+	- [X] Update Assets/Scripts/Character.cs
+		- [X] Add a `Weapon` struct
+		- [X] Create `string` and `int` fields inside the Weapon struct
+		- [X] Create a `Weapon()` constructor and populate the above fields with its parameters
+	- [X] Update Assets/Scripts/LearningCurve.cs
+		- [X] Instantiate two new Weapon objects `huntingBow` and `warBow` from the `Weapon` struct
 		- [ ] Print out each weapons' data
 - Child classes
 	- [ ] Update Assets/Scripts/Character.cs
