@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4931025748886379293}
   - component: {fileID: 5543939479511635549}
   - component: {fileID: 6124490682928022498}
+  - component: {fileID: 5906108396777436224}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -150,3 +151,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5906108396777436224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9218868732202251515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a40c502a46afb4143ac135ad883a5a40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemBehavior
